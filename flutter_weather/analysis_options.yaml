@@ -1,0 +1,4 @@
+﻿analyzer:
+  errors:
+    unused_element: ignore
+    unnecessary_library_name: ignore
